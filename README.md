@@ -110,11 +110,13 @@ A curated list of awesome fabrication resources.
 
 ## Webapps
 
+- [Maker Machines Atlas Laser Setup Cost Calculator] (commercial) - Free, affiliate-supported web calculator for budgeting a laser machine, extraction, accessories, and other setup costs using your own quotes.
 - [Plywood Cut Optimizer] - Enter your cut list, get an optimized sheet layout with waste percentage.
 - [ThreeDee AI 3D Generator] - Web app to generate 3D models from text prompts or a single image.
 - [ThreeDee AI 3D Bust Maker] - Web app to generate printable 3D bust models from one portrait photo.
 - [SimplexGen] - Web app to generate 3D models from text or images, with built-in mesh editing (simplify, smooth, subdivide, repair, retopology, boolean, UV unwrap, sculpting) and 3D-print prep.
 
+[Maker Machines Atlas Laser Setup Cost Calculator]: https://makermachinesatlas.com/en/tools/laser-setup-cost/
 [Plywood Cut Optimizer]: https://tools.modologystudios.com/plywood-cut-optimizer/
 [SimplexGen]: https://simplexgen.com
 [ThreeDee AI 3D Bust Maker]: https://www.threedee.design/products/3d-bust-maker/
